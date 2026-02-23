@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Michael
 
-<!--
-**Mikitatek/mikitatek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer focused on Laravel + React.
+I build production-ready SaaS, e-commerce and payment-integrated systems.
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
+- Backend: Laravel 12, PHP 8.2, Sanctum, REST APIs
+- Frontend: React + TypeScript, Inertia.js, Tailwind
+- Payments: Stripe
+- Cloud: AWS S3
+- DB: MySQL
+- DevOps: Docker, CI/CD
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Currently improving
+- System design
+- Testing (Pest / PHPUnit)
+- Advanced React patterns
