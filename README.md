@@ -7,7 +7,7 @@ mobile apps and small automation tools around them.
 
 Open to freelance and contract work.
 
-## 🛠️ What I build
+## What I build
 - **Ordering & delivery platforms** — restaurant websites with online ordering, staff admin
   panels, and iOS/Android customer apps with a courier mode
 - **E-commerce** — storefronts with Stripe / Netopia checkout, product catalogs, newsletters
@@ -24,7 +24,7 @@ Open to freelance and contract work.
 - **Cloud & DevOps:** AWS S3, Docker / Laravel Sail, CI/CD
 - **Scripting:** Python, Node.js
 
-## 🧠 Currently improving
+## Currently improving
 - System design & architecture decisions (ADRs)
 - Testing (Pest / PHPUnit)
 - Advanced React patterns
