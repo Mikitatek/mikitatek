@@ -1,8 +1,8 @@
 # Hi, I'm Michael
 
 Full-stack developer focused on **Laravel + React**.
-I build production-ready web platforms for real businesses — online ordering & delivery,
-e-commerce, reservations, admin dashboards and payment-integrated systems — plus the
+I build production-ready web platforms for real businesses, online ordering & delivery,
+e-commerce, reservations, admin dashboards and payment-integrated systems, plus the
 mobile apps and small automation tools around them.
 
 Open to freelance and contract work.
